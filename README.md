@@ -2,7 +2,7 @@
 ![SheHuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehuan&show_icons=true)
 
 <a href="https://www.jianshu.com/u/4235f2b5b350" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-简书-brightgreen?logo=bloglovin" />
+    <img src="https://img.shields.io/badge/Blog：-简书-brightgreen?logo=bloglovin" />
 </a> 
 
 <a href="https://github.com/SheHuan">
